@@ -4,10 +4,4 @@ adding one test
 
 
 
-test with ubuntu virtual
-
-
-
-
-
-2222222
+test with ubuntu virtual meashin
