@@ -1,9 +1,2 @@
 simon test
 
-adding one test
-
-
-
-test with ubuntu virtual
-
-5555
